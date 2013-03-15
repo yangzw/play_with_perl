@@ -1,0 +1,2 @@
+统计替换
+将2.txt中的数字用1.txt同样的Entrez_Gene_Id对应的Tumor_Sample_Barcode代替
